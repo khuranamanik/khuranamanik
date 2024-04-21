@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **khuranamanik/khuranamanik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-😃
+### Hello there 👋
+
+#### A Cloud Security Architect by day ☼ and a Sleeper by night ☾
+
+- ⚙️ I use daily: `Dockerfile`, `.js`, `.html`, `.css`, `.docx`, `.ppt`,
+- 🌍 Travelling the world, one country at a time. 
+- 💬 `ping` me about **cloud computing**, **confidential computing**, **development**, **design thinking**
